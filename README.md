@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Vision and Information Cataloging
 - 🌱 I’m currently learning MultiCloud Architectures, CI/CD, DevOps, small lightweight containerized applications 
 - 💞️ I’m looking to collaborate on AR Projects and Web3 
-- 📫 How to reach me instagram.com/shaneguignard
+- 📫 How to reach me <a href="instagram.com/shaneguignard"> @shaneguignard </a>
 
 <!---
 shaneguignard/shaneguignard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
